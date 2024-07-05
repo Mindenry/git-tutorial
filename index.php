@@ -6,6 +6,3 @@ echo "My first PHP Repository!";
 echo "Peerawit";
 ?>
 
-<?php
-echo "Nameee";
-?>
